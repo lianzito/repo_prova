@@ -15,11 +15,11 @@ O repositório possui a seguinte estrutura de diretórios:
 
 Os comando usados para criar o repositório foram:
 <br>
-├── git init<br>        
-├── git add .<br>       
+├── git init        
+├── git add .     
 ├── git commit -a -m "primeiro commit index"<br>       
 ├── git push<br>
-└── git checkout -b "admin"<br>
+├── git checkout -b "admin"<br>
 ├── git status<br>
 ├── git add .<br>
 ├── git commit -a -m "primeiro commit admin"<br>
