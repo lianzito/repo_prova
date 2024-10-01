@@ -17,7 +17,7 @@ Os comando usados para criar o repositório foram:
 <br>
 ├── git init        
 ├── git add .     
-├── git commit -a -m "primeiro commit index"<br>       
+├── git commit -a -m "primeiro commit index"       
 ├── git push<br>
 ├── git checkout -b "admin"<br>
 ├── git status<br>
