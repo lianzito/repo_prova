@@ -5,19 +5,19 @@ Este projeto é uma aplicação front-end simples para uma loja de hardware, con
 ## Estrutura do Diretório
 
 O repositório possui a seguinte estrutura de diretórios:
-├── index.html          # Página inicial (Home)
-├── admin.html          # Página de administração (Área do Admin)
-├── styles.css          # Estilos da página inicial
-├── styles-admin.css    # Estilos da área de administração
-└── README.md           # Documentação do projeto
+├── index.html          # Página inicial (Home)<br>
+├── admin.html          # Página de administração (Área do Admin)<br>
+├── styles.css          # Estilos da página inicial<br>
+├── styles-admin.css    # Estilos da área de administração<br>
+└── README.md           # Documentação do projeto<br>
 
 Os comando usados para criar o repositório foram:
-├── git init        
-├── git add .       
-├── git commit -a -m "primeiro commit index"       
-├── git push
-└── git checkout -b "admin"
-├── git status
-├── git add .
-├── git commit -a -m "primeiro commit admin"
-└── git push origin admin
+├── git init<br>        
+├── git add .<br>       
+├── git commit -a -m "primeiro commit index"<br>       
+├── git push<br>
+└── git checkout -b "admin"<br>
+├── git status<br>
+├── git add .<br>
+├── git commit -a -m "primeiro commit admin"<br>
+└── git push origin admin<br>
